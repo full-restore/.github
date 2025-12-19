@@ -9,7 +9,7 @@ A FOSS web app designed for processing and archiving Pokémon Showdown tournamen
 ## Repo structure overview
 
 ```
-|-fullrestore.me
+|-super-potion (web client)
 |
 |-fullresture-server
 | \
