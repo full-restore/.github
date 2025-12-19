@@ -1,4 +1,4 @@
-# Full Restore Tournaments
+# Full Restore
 
 A FOSS web app designed for processing and archiving Pokémon Showdown tournaments and replays, along with any associated video content.
 
