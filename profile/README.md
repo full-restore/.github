@@ -30,7 +30,7 @@ A FOSS web app designed for processing and archiving Pokémon Showdown tournamen
 ```
 ## Local Setup Instructions
 
-1. Clone [super-potion](https://github.com/full-restore/super-potion) and [fullrestore-server}(https://github.com/full-restore/fullrestore-server) somewhere accessible (optionally [fullrestore-importer](https://github.com/full-restore/fullrestore-importer), and [fullrestore-assistant](https://github.com/full-restore/fullrestore-assistant))
+1. Clone [super-potion](https://github.com/full-restore/super-potion) and [fullrestore-server](https://github.com/full-restore/fullrestore-server) somewhere accessible (optionally [fullrestore-importer](https://github.com/full-restore/fullrestore-importer), and [fullrestore-assistant](https://github.com/full-restore/fullrestore-assistant))
 2. Run `docker pull --platform linux/amd64 ghcr.io/full-restore/fullrestore-database:main` to fetch a database instance, and run it
 3. populate `.env` files in super-potion as well as fullrestore/packages/api, both have example files
 
